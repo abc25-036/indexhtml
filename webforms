@@ -44,7 +44,7 @@
 
                             return data;
 
-                        });  
+                        }
 
  
 
@@ -68,7 +68,7 @@
 
                             return normalizedArray;
 
-                        });  
+                        }
 
                 }
 
